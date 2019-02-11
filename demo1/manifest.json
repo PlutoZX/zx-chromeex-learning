@@ -1,9 +1,9 @@
 
 {
   "manifest_version": 2,
-  "name": "zxdemo",
-  "version": "1.0.0",
-  "description": "小旋子的chrome扩展demo",
+  "name": "zxdemo1",
+  "version": "1.0.0.0",
+  "description": "小旋子的chrome扩展demo1",
   "icons": {
       "48": "images/favicon.ico"
   },
@@ -11,16 +11,29 @@
       "default_icon": {
         "48": "images/favicon.ico"
       },
-      "default_title": "小旋子的chrome扩展demo",
+      "default_title": "小旋子的chrome扩展demo1",
       "default_popup": "main.html"
   },
   "content_scripts": [
     {
       "matches": ["*://www.jd.com/"],
-      "js": ["js/test2.js"]
+      "js": ["js/jd1.js"]
+    },
+    {
+      "matches": ["*://www.baidu.com/"],
+      "js": ["js/baidu1.js"]
     }
   ],
+  "background": {
+    "scripts": [
+      "js/background.js"
+    ]
+  },
+  "options_page": "options.html",
   "permissions": [
-    "*://*.wikipedia.org/*"
+    "*://*.wikipedia.org/*",
+    "*://*.jd.com/*",
+    "*://*.xiaomi.com/*",
+    "*://*.weather.com.cn/*"
   ]
 }
