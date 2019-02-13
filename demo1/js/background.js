@@ -11,3 +11,74 @@ chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) {
     sendResponse('这是从后台js返回的信息')
   }
 });
+
+
+
+//
+// // 右键菜单
+// chrome.contextMenus.create({
+//   type: 'normal',
+//   title: 'Menu A',
+//   id: 'a'
+// });
+//
+// chrome.contextMenus.create({
+//   type: 'radio',
+//   title: 'Menu B',
+//   id: 'b',
+//   checked: true
+// });
+//
+// chrome.contextMenus.create({
+//   type: 'radio',
+//   title: 'Menu C',
+//   id: 'c'
+// });
+//
+// chrome.contextMenus.create({
+//   type: 'checkbox',
+//   title: 'Menu D',
+//   id: 'd',
+//   checked: true
+// });
+//
+// chrome.contextMenus.create({
+//   type: 'separator'
+// });
+//
+// chrome.contextMenus.create({
+//   type: 'checkbox',
+//   title: 'Menu E',
+//   id: 'e'
+// });
+//
+// chrome.contextMenus.create({
+//   type: 'normal',
+//   title: 'Menu F',
+//   id: 'f',
+//   parentId: 'a',
+//   onclick: handleClickMenus
+// });
+//
+// chrome.contextMenus.create({
+//   type: 'normal',
+//   title: 'Menu G',
+//   id: 'g',
+//   parentId: 'a'
+// });
+//
+//
+//
+// function handleClickMenus (info, tab) {
+//   console.log(info)
+//   console.log(tab)
+// }
+
+
+// omnibox 设置默认提示
+chrome.omnibox.setDefaultSuggestion({
+  description: '这是默认提示'
+})
+chrome.omnibox.onInputEntered.addListener(function (text, disposition) { // 第一个是用户输入的值，字符串型，第二个是对结果的建议打开方式
+  alert('您输入的是 ' + text)
+})

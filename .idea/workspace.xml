@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64402ab0-f63b-47f2-abd2-a7f7e4f1adc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo1/js/background.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/js/baidu1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/js/jd1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/js/options.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo1/options.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/images/WechatIMG2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/images/etcmini_imgs_ETC.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo1.crx" beforeDir="false" afterPath="$PROJECT_DIR$/demo1.crx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/js/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/js/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/js/test2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/js/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/js/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/js/common.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo1/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/manifest.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo1/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+            <state relative-caret-position="455">
+              <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -52,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo1/js/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="35" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="35" />
+            <state relative-caret-position="275">
+              <caret line="94" column="3" lean-forward="true" selection-start-line="94" selection-start-column="3" selection-end-line="94" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -79,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo1/js/background.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            <state relative-caret-position="395">
+              <caret line="69" column="2" lean-forward="true" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -137,11 +133,11 @@
         <option value="$PROJECT_DIR$/demo1/js/test.js" />
         <option value="$PROJECT_DIR$/demo1/css/main.css" />
         <option value="$PROJECT_DIR$/demo1/js/baidu1.js" />
-        <option value="$PROJECT_DIR$/demo1/manifest.json" />
         <option value="$PROJECT_DIR$/demo1/options.html" />
         <option value="$PROJECT_DIR$/demo1/js/options.js" />
         <option value="$PROJECT_DIR$/demo1/main.html" />
         <option value="$PROJECT_DIR$/demo1/js/common.js" />
+        <option value="$PROJECT_DIR$/demo1/manifest.json" />
         <option value="$PROJECT_DIR$/demo1/js/background.js" />
       </list>
     </option>
@@ -156,6 +152,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,13 +169,18 @@
               <item name="zx-chromeex-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="zx-chromeex-learning" type="462c0819:PsiDirectoryNode" />
               <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zx-chromeex-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zx-chromeex-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -188,6 +190,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo1/images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -213,12 +220,19 @@
       <updated>1546589998603</updated>
       <workItem from="1546589999889" duration="379000" />
       <workItem from="1549853110587" duration="4290000" />
-      <workItem from="1549874971692" duration="6562000" />
+      <workItem from="1549874971692" duration="6731000" />
+      <workItem from="1549935662026" duration="1087000" />
+      <workItem from="1549970184658" duration="346000" />
+      <workItem from="1550040407937" duration="140000" />
+      <workItem from="1550047813113" duration="859000" />
+      <workItem from="1550051207797" duration="308000" />
+      <workItem from="1550054009195" duration="428000" />
+      <workItem from="1550054536474" duration="5358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11231000" />
+    <option name="totallyTimeSpent" value="19926000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="852" extended-state="6" />
@@ -253,10 +267,24 @@
     <entry file="file://$PROJECT_DIR$/demo1/images/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo1/js/jd1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/js/baidu1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -277,20 +305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo1/main.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -298,24 +312,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/js/common.js">
+    <entry file="file://$PROJECT_DIR$/demo1/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/js/baidu1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="455">
+          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/demo1/js/background.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        <state relative-caret-position="395">
+          <caret line="69" column="2" lean-forward="true" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="94" column="3" lean-forward="true" selection-start-line="94" selection-start-column="3" selection-end-line="94" selection-end-column="3" />
         </state>
       </provider>
     </entry>

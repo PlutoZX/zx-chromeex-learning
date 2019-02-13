@@ -5,11 +5,14 @@
   "version": "1.0.0.0",
   "description": "小旋子的chrome扩展demo1",
   "icons": {
-      "48": "images/favicon.ico"
+      "16": "images/WechatIMG2.jpg",
+      "19": "images/WechatIMG2.jpg",
+      "38": "images/WechatIMG2.jpg",
+      "48": "images/WechatIMG2.jpg"
   },
   "browser_action": {
       "default_icon": {
-        "48": "images/favicon.ico"
+        "48": "images/WechatIMG2.jpg"
       },
       "default_title": "小旋子的chrome扩展demo1",
       "default_popup": "main.html"
@@ -34,6 +37,10 @@
     "*://*.wikipedia.org/*",
     "*://*.jd.com/*",
     "*://*.xiaomi.com/*",
-    "*://*.weather.com.cn/*"
-  ]
+    "*://*.weather.com.cn/*",
+    "storage",
+    "contextMenus",
+    "notifications"
+  ],
+  "omnibox": { "keyword" : "zx" }
 }
