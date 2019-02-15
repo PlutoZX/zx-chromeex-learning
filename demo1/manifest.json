@@ -40,7 +40,16 @@
     "*://*.weather.com.cn/*",
     "storage",
     "contextMenus",
-    "notifications"
+    "notifications",
+    "bookmarks",
+    "tabs",
+    "downloads",
+    "webRequest",
+    "webRequestBlocking",
+    "proxy",
+    "system.cpu",
+    "system.memory",
+    "system.storage"
   ],
   "omnibox": { "keyword" : "zx" }
 }

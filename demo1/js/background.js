@@ -13,7 +13,6 @@ chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) {
 });
 
 
-
 //
 // // 右键菜单
 // chrome.contextMenus.create({
@@ -82,3 +81,26 @@ chrome.omnibox.setDefaultSuggestion({
 chrome.omnibox.onInputEntered.addListener(function (text, disposition) { // 第一个是用户输入的值，字符串型，第二个是对结果的建议打开方式
   alert('您输入的是 ' + text)
 })
+
+
+// 设置代理
+// var config = {
+//   mode: "fixed_servers",
+//   rules: {
+//     proxyForHttps: {
+//       scheme: "https",
+//       host: "61.135.169.125",
+//       port: 443
+//     },
+//     bypassList: []
+//   }
+// };
+// chrome.proxy.settings.set(
+//   {value: config},
+//   function () {
+// })
+// chrome.proxy.settings.get({},
+//   function(config) {
+//     alert(JSON.stringify(config.value));
+//   }
+// );
