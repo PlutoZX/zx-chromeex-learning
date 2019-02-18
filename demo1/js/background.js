@@ -8,6 +8,7 @@
 
 chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) {
   if (message === 'Hello') {
+    console.log(message)
     sendResponse('这是从后台js返回的信息')
   }
 });
@@ -104,3 +105,5 @@ chrome.omnibox.onInputEntered.addListener(function (text, disposition) { // 第�
 //     alert(JSON.stringify(config.value));
 //   }
 // );
+
+
