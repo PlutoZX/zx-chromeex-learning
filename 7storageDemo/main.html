@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      padding: 10px;
+      width: 400px;
+      height: 300px;
+      overflow: scroll;
+    }
+    h3 {
+      margin: 20px 0 0;
+    }
+    p {
+      margin: 10px 0;
+    }
+  </style>
+  <title>7storageDemo</title>
+</head>
+<body>
+<div class="container">
+  <input type="text" id="keyBox"/>
+  <input type="text" id="valueBox"/>
+  <input type="button" id="saveBtn" value="保存"/>
+  <input type="button" id="getBtn" value="读取"/>
+  
+  
+  <h3>chrome.storage与localStorage的差异</h3>
+  <p>用户数据可以与Chrome同步自动同步（使用storage.sync）。</p>
+  <p>您的应用程序的内容脚本可以直接访问用户数据，而无需后台页面。 </p>
+  <p>即使使用拆分隐身行为，也可以保留用户的扩展程序设置。</p>
+  <p>它与批量读写操作异步，因此比阻塞和串行localStorage API更快。</p>
+  <p>用户数据可以存储为对象（localStorage API将数据存储在字符串中）。</p>
+  <p>可以读取管理员为扩展配置的企业策略（使用带有模式的storage.managed）。</p>
+  
+  
+  <input type="button" id="poptobgBtn" value="popup触发background"/>
+  <input type="button" id="bgtopopBtn" value="background触发popup"/>
+  <p>contentjs和页面的上下文是相互独立的</p>
+  
+  <script src="jQuery-3.3.1.js"></script>
+  <script src="main.js"></script>
+</div>
+</body>
+</html>

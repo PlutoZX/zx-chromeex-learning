@@ -1,0 +1,42 @@
+{
+  "manifest_version": 2,
+  "name": "7storageDemo",
+  "version": "1.0.0.0",
+  "description": "小旋子的chrome扩展7storageDemo",
+  "icons": {
+    "48": "WechatIMG2.jpg"
+  },
+  "browser_action": {
+    "default_icon": {
+      "48": "WechatIMG2.jpg"
+    },
+    "default_title": "小旋子的chrome扩展7storageDemo",
+    "default_popup": "main.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://www.jd.com/"],
+      "js": ["jd.js"]
+    }
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "*://*.wikipedia.org/*",
+    "*://*.jd.com/*",
+    "*://*.xiaomi.com/*",
+    "*://*.weather.com.cn/*",
+    "storage",
+    "contextMenus",
+    "notifications",
+    "bookmarks",
+    "tabs",
+    "downloads",
+    "webRequest",
+    "webRequestBlocking"
+  ],
+  "web_accessible_resources": ["inject.js", "WechatIMG2.jpg"]
+}
