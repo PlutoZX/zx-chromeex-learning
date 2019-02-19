@@ -1,0 +1,23 @@
+
+{
+  "manifest_version": 2,
+  "name": "1domDemo",
+  "version": "1.0.0.0",
+  "description": "小旋子的chrome扩展1domDemo",
+  "icons": {
+    "48": "WechatIMG2.jpg"
+  },
+  "browser_action": {
+    "default_icon": {
+      "48": "WechatIMG2.jpg"
+    },
+    "default_title": "小旋子的chrome扩展1domDemo",
+    "default_popup": ""
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://www.jd.com/"],
+      "js": ["jd.js"]
+    }
+  ]
+}

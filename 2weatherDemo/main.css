@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  padding: 10px;
+  width: 375px;
+  height: 400px;
+  overflow: scroll;
+}
+button {
+  display: block;
+  background-color: #fff;
+  width: 100px;
+  height: 50px;
+}

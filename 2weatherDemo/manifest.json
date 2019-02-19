@@ -1,0 +1,20 @@
+
+{
+  "manifest_version": 2,
+  "name": "2weatherDemo",
+  "version": "1.0.0.0",
+  "description": "小旋子的chrome扩展2weatherDemo",
+  "icons": {
+    "48": "WechatIMG2.jpg"
+  },
+  "browser_action": {
+    "default_icon": {
+      "48": "WechatIMG2.jpg"
+    },
+    "default_title": "小旋子的chrome扩展2weatherDemo",
+    "default_popup": "main.html"
+  },
+  "permissions": [
+    "*://*.xiaomi.com/*"
+  ]
+}
