@@ -2,23 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64402ab0-f63b-47f2-abd2-a7f7e4f1adc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1domDemo/WechatIMG2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1domDemo/jd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1domDemo/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2weatherDemo/WechatIMG2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2weatherDemo/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2weatherDemo/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2weatherDemo/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2weatherDemo/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3codeDemo/WechatIMG2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3codeDemo/jQuery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3codeDemo/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3codeDemo/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3codeDemo/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3codeDemo/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3codeDemo/qrcode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4menuDemo/WechatIMG2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4menuDemo/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4menuDemo/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5overrideDemo/WechatIMG2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5overrideDemo/WechatIMG4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5overrideDemo/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5overrideDemo/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5overrideDemo/newtab.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6omniboxDemo/WechatIMG2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6omniboxDemo/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6omniboxDemo/manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/js/jd1.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/js/jd1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/js/background.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/js/background.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/manifest.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,53 +32,57 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo1/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="495">
+              <caret line="33" column="4" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="33" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1/main.html">
+        <entry file="file://$PROJECT_DIR$/demo1/js/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="47" />
+            <state relative-caret-position="285">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#31#111#0" />
+                <element signature="e#722#853#0" />
+                <element signature="e#780#850#0" />
+                <element signature="e#932#961#0" />
+                <element signature="e#1012#1068#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3codeDemo/manifest.json">
+        <entry file="file://$PROJECT_DIR$/demo1/js/background.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3codeDemo/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="32" />
+            <state relative-caret-position="165">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="e#27#85#0" />
+                <element signature="e#271#365#0" />
+                <element signature="e#300#363#0" />
+                <element signature="e#1570#1577#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3codeDemo/main.js">
+        <entry file="file://$PROJECT_DIR$/6omniboxDemo/manifest.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="225">
+              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3codeDemo/main.css">
+        <entry file="file://$PROJECT_DIR$/6omniboxDemo/background.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="345">
+              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -99,13 +101,17 @@
     <findStrings>
       <find>mod_container</find>
       <find>#btn</find>
-      <find>;</find>
       <find>:</find>
       <find>common</find>
       <find>alert</find>
+      <find>handleClickMenus</find>
+      <find>;</find>
+      <find>overri</find>
+      <find>omnibox</find>
     </findStrings>
     <replaceStrings>
       <replace>:</replace>
+      <replace>handleNewNotify</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -122,10 +128,7 @@
         <option value="$PROJECT_DIR$/demo1/main.html" />
         <option value="$PROJECT_DIR$/manifest.json" />
         <option value="$PROJECT_DIR$/manifest.js" />
-        <option value="$PROJECT_DIR$/demo1/manifest.json" />
-        <option value="$PROJECT_DIR$/demo1/js/common.js" />
         <option value="$PROJECT_DIR$/demo1/js/baidu1.js" />
-        <option value="$PROJECT_DIR$/demo1/js/background.js" />
         <option value="$PROJECT_DIR$/demo1/js/jd1.js" />
         <option value="$PROJECT_DIR$/1domDemo/manifest.json" />
         <option value="$PROJECT_DIR$/1domDemo/jd.js" />
@@ -139,6 +142,15 @@
         <option value="$PROJECT_DIR$/3codeDemo/main.css" />
         <option value="$PROJECT_DIR$/3codeDemo/manifest.json" />
         <option value="$PROJECT_DIR$/3codeDemo/main.js" />
+        <option value="$PROJECT_DIR$/4menuDemo/manifest.json" />
+        <option value="$PROJECT_DIR$/4menuDemo/background.js" />
+        <option value="$PROJECT_DIR$/demo1/js/common.js" />
+        <option value="$PROJECT_DIR$/5overrideDemo/manifest.json" />
+        <option value="$PROJECT_DIR$/5overrideDemo/newtab.html" />
+        <option value="$PROJECT_DIR$/demo1/js/background.js" />
+        <option value="$PROJECT_DIR$/demo1/manifest.json" />
+        <option value="$PROJECT_DIR$/6omniboxDemo/manifest.json" />
+        <option value="$PROJECT_DIR$/6omniboxDemo/background.js" />
       </list>
     </option>
   </component>
@@ -162,23 +174,17 @@
             <path>
               <item name="zx-chromeex-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="zx-chromeex-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="2weatherDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="5overrideDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zx-chromeex-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="zx-chromeex-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="3codeDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zx-chromeex-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zx-chromeex-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="6omniboxDemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zx-chromeex-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="zx-chromeex-learning" type="462c0819:PsiDirectoryNode" />
               <item name="demo1" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zx-chromeex-learning" type="b2602c69:ProjectViewProjectNode" />
@@ -202,14 +208,15 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/6omniboxDemo" />
+      <recent name="$PROJECT_DIR$/5overrideDemo" />
+      <recent name="$PROJECT_DIR$/4menuDemo" />
       <recent name="$PROJECT_DIR$/3codeDemo" />
       <recent name="$PROJECT_DIR$/2weatherDemo" />
-      <recent name="$PROJECT_DIR$/1domDemo" />
-      <recent name="$PROJECT_DIR$/demo1/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -258,12 +265,13 @@
       <workItem from="1550453562373" duration="8000" />
       <workItem from="1550477654242" duration="1138000" />
       <workItem from="1550492864223" duration="3178000" />
-      <workItem from="1550542449160" duration="4863000" />
+      <workItem from="1550542449160" duration="5018000" />
+      <workItem from="1550560085386" duration="7905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38873000" />
+    <option name="totallyTimeSpent" value="46933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="852" extended-state="6" />
@@ -309,64 +317,10 @@
     <entry file="file://$PROJECT_DIR$/demo1/js/jd1.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="45" column="49" lean-forward="true" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
-          <folding>
-            <element signature="e#31#111#0" />
-            <element signature="n#!!block;n#httpRequest#0" />
-            <element signature="e#269#345#0" />
-            <element signature="e#301#341#0" />
-            <element signature="n#!!block;n#searchCallBack#0" />
-            <element signature="e#722#853#0" />
-            <element signature="e#780#850#0" />
-            <element signature="e#932#961#0" />
-            <element signature="e#1012#1068#0" />
-            <element signature="e#1244#1294#0" />
-            <element signature="e#1323#1402#0" />
-            <element signature="e#1432#1520#0" />
-            <element signature="e#1550#1626#0" />
-            <element signature="e#1656#1731#0" />
-            <element signature="e#1761#1839#0" />
-            <element signature="n#!!block;n#handleClickMenus#0" />
-            <element signature="e#1961#2105#0" />
-            <element signature="n#!!block;n#handleCreateBookMarks#0" />
-            <element signature="e#2181#2294#0" />
-            <element signature="e#2316#2347#0" />
-            <element signature="n#!!block;n#handleGetTab#0" />
-            <element signature="e#2381#2421#0" />
-            <element signature="e#2476#2563#0" />
-            <element signature="e#2578#2605#0" />
-            <element signature="n#!!block;n#handleDownload#0" />
-            <element signature="e#2669#2757#0" />
-            <element signature="e#2771#2777#0" />
-            <element signature="n#!!block;n#handleGetSystem#0" />
-            <element signature="e#2854#2882#0" />
-            <element signature="e#2929#2957#0" />
-            <element signature="e#3005#3033#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1domDemo/jd.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="70" lean-forward="true" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/js/background.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#271#365#0" />
-            <element signature="e#300#363#0" />
-            <element signature="e#1404#1431#0" />
-            <element signature="e#1504#1566#0" />
-            <element signature="e#1570#1577#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -432,13 +386,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3codeDemo/qrcode.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -459,24 +406,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3codeDemo/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3codeDemo/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3codeDemo/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -487,10 +427,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3codeDemo/main.js">
+    <entry file="file://$PROJECT_DIR$/3codeDemo/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="240">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4menuDemo/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4menuDemo/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+          <folding>
+            <element signature="e#35#115#0" />
+            <element signature="e#145#235#0" />
+            <element signature="e#265#343#0" />
+            <element signature="e#373#450#0" />
+            <element signature="e#480#560#0" />
+            <element signature="e#590#699#0" />
+            <element signature="n#!!block;n#handleClickMenus#0" />
+            <element signature="e#752#896#0" />
+            <element signature="n#!!block;n#handleCreateBookMarks#0" />
+            <element signature="e#972#1085#0" />
+            <element signature="e#1107#1138#0" />
+            <element signature="n#!!block;n#handleGetTab#0" />
+            <element signature="e#1186#1272#0" />
+            <element signature="e#1288#1314#0" />
+            <element signature="n#!!block;n#handleDownload#0" />
+            <element signature="e#1376#1464#0" />
+            <element signature="e#1478#1484#0" />
+            <element signature="n#!!block;n#handleGetSystem#0" />
+            <element signature="e#1561#1588#0" />
+            <element signature="e#1635#1662#0" />
+            <element signature="e#1710#1737#0" />
+            <element signature="n#!!block;n#handleSelect#0" />
+            <element signature="e#1842#1938#0" />
+            <element signature="e#1953#1979#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5overrideDemo/background.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5overrideDemo/newtab.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5overrideDemo/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="4" lean-forward="true" selection-start-line="29" selection-start-column="2" selection-end-line="33" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#31#111#0" />
+            <element signature="e#722#853#0" />
+            <element signature="e#780#850#0" />
+            <element signature="e#932#961#0" />
+            <element signature="e#1012#1068#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/js/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#27#85#0" />
+            <element signature="e#271#365#0" />
+            <element signature="e#300#363#0" />
+            <element signature="e#1570#1577#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6omniboxDemo/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6omniboxDemo/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>

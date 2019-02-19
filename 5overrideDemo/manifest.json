@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "5overrideDemo",
+  "version": "1.0.0.0",
+  "description": "小旋子的chrome扩展5overrideDemo",
+  "icons": {
+    "48": "WechatIMG2.jpg"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "chrome_url_overrides" : {
+    "newtab": "newtab.html"
+  },
+  "permissions": [
+    "contextMenus",
+    "notifications",
+    "bookmarks",
+    "tabs",
+    "downloads",
+    "webRequest",
+    "webRequestBlocking",
+    "proxy",
+    "system.cpu",
+    "system.memory",
+    "system.storage"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "6omniboxDemo",
+  "version": "1.0.0.0",
+  "description": "小旋子的chrome扩展6omniboxDemo",
+  "icons": {
+    "48": "WechatIMG2.jpg"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "omnibox": { "keyword" : "zx" },
+  "permissions": [
+    "contextMenus",
+    "notifications",
+    "bookmarks",
+    "tabs",
+    "downloads",
+    "proxy",
+    "system.cpu",
+    "system.memory",
+    "system.storage"
+  ]
+}

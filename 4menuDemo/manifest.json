@@ -1,0 +1,28 @@
+
+{
+  "manifest_version": 2,
+  "name": "4menuDemo",
+  "version": "1.0.0.0",
+  "description": "小旋子的chrome扩展4menuDemo",
+  "icons": {
+    "48": "WechatIMG2.jpg"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "contextMenus",
+    "notifications",
+    "bookmarks",
+    "tabs",
+    "downloads",
+    "webRequest",
+    "webRequestBlocking",
+    "proxy",
+    "system.cpu",
+    "system.memory",
+    "system.storage"
+  ]
+}

@@ -50,6 +50,5 @@
     "system.cpu",
     "system.memory",
     "system.storage"
-  ],
-  "omnibox": { "keyword" : "zx" }
+  ]
 }
