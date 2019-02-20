@@ -2,17 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64402ab0-f63b-47f2-abd2-a7f7e4f1adc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7storageDemo/WechatIMG2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7storageDemo/background.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7storageDemo/inject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7storageDemo/jQuery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7storageDemo/jd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7storageDemo/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7storageDemo/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7storageDemo/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8devtoolsDemo/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8devtoolsDemo/devtools-extension.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8devtoolsDemo/devtools.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8devtoolsDemo/panel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8devtoolsDemo/panel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8devtoolsDemo/sidebar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo1/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo1/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8devtoolsDemo/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/8devtoolsDemo/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1.crx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/images/WechatIMG2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/8devtoolsDemo/WechatIMG2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/images/etcmini_imgs_ETC.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/js/background.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/js/baidu1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/js/jd1.js" beforeDir="false" afterPath="$PROJECT_DIR$/8devtoolsDemo/devtools.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/js/options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo1/options.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,114 +34,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1/manifest.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1/js/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#31#111#0" />
-                <element signature="e#722#853#0" />
-                <element signature="e#780#850#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo1/js/background.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-              <folding>
-                <element signature="e#27#85#0" />
-                <element signature="e#271#365#0" />
-                <element signature="e#300#363#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7storageDemo/manifest.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7storageDemo/jd.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7storageDemo/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-              <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" />
-                <element signature="n#meta#1;n#head#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7storageDemo/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="e#53#63#0" />
-                <element signature="e#137#162#0" />
-                <element signature="e#204#234#0" />
-                <element signature="e#286#296#0" />
-                <element signature="e#341#384#0" />
-                <element signature="e#460#470#0" />
-                <element signature="e#572#600#0" />
-                <element signature="e#565#575#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7storageDemo/background.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -185,7 +94,6 @@
         <option value="$PROJECT_DIR$/demo1/manifest.json" />
         <option value="$PROJECT_DIR$/6omniboxDemo/manifest.json" />
         <option value="$PROJECT_DIR$/6omniboxDemo/background.js" />
-        <option value="$PROJECT_DIR$/8devtoolsDemo/manifest.json" />
         <option value="$PROJECT_DIR$/demo1/js/common.js" />
         <option value="$PROJECT_DIR$/1domDemo/manifest.json" />
         <option value="$PROJECT_DIR$/1domDemo/jd.js" />
@@ -196,6 +104,12 @@
         <option value="$PROJECT_DIR$/7storageDemo/manifest.json" />
         <option value="$PROJECT_DIR$/7storageDemo/jd.js" />
         <option value="$PROJECT_DIR$/7storageDemo/main.html" />
+        <option value="$PROJECT_DIR$/8devtoolsDemo/devtools.html" />
+        <option value="$PROJECT_DIR$/8devtoolsDemo/panel.html" />
+        <option value="$PROJECT_DIR$/8devtoolsDemo/sidebar.html" />
+        <option value="$PROJECT_DIR$/8devtoolsDemo/devtools.js" />
+        <option value="$PROJECT_DIR$/8devtoolsDemo/panel.js" />
+        <option value="$PROJECT_DIR$/8devtoolsDemo/manifest.json" />
       </list>
     </option>
   </component>
@@ -209,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,23 +134,17 @@
             <path>
               <item name="zx-chromeex-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="zx-chromeex-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="1domDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zx-chromeex-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zx-chromeex-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="4menuDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zx-chromeex-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zx-chromeex-learning" type="462c0819:PsiDirectoryNode" />
               <item name="7storageDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zx-chromeex-learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zx-chromeex-learning" type="462c0819:PsiDirectoryNode" />
+              <item name="8devtoolsDemo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,16 +156,16 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/7storageDemo" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/8devtoolsDemo" />
       <recent name="$PROJECT_DIR$/7storageDemo" />
       <recent name="$PROJECT_DIR$/6omniboxDemo" />
       <recent name="$PROJECT_DIR$/5overrideDemo" />
       <recent name="$PROJECT_DIR$/4menuDemo" />
-      <recent name="$PROJECT_DIR$/3codeDemo" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/7storageDemo" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -306,16 +215,18 @@
       <workItem from="1550477654242" duration="1138000" />
       <workItem from="1550492864223" duration="3178000" />
       <workItem from="1550542449160" duration="5018000" />
-      <workItem from="1550560085386" duration="19212000" />
+      <workItem from="1550560085386" duration="19254000" />
+      <workItem from="1550627235393" duration="329000" />
+      <workItem from="1550643490973" duration="2290000" />
+      <workItem from="1550646545198" duration="3457000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58240000" />
+    <option name="totallyTimeSpent" value="64358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="852" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17688513" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -499,24 +410,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8devtoolsDemo/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3codeDemo/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/manifest.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -562,18 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo1/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#31#111#0" />
-            <element signature="e#722#853#0" />
-            <element signature="e#780#850#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7storageDemo/inject.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -593,34 +478,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7storageDemo/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#53#63#0" />
-            <element signature="e#137#162#0" />
-            <element signature="e#204#234#0" />
-            <element signature="e#286#296#0" />
-            <element signature="e#341#384#0" />
-            <element signature="e#460#470#0" />
-            <element signature="e#572#600#0" />
-            <element signature="e#565#575#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7storageDemo/background.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo1/js/background.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
           <folding>
             <element signature="e#27#85#0" />
             <element signature="e#271#365#0" />
@@ -631,7 +492,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/7storageDemo/jd.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
+        <state relative-caret-position="195">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -639,17 +500,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/7storageDemo/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7storageDemo/background.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#31#111#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/7storageDemo/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        <state relative-caret-position="360">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8devtoolsDemo/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8devtoolsDemo/devtools.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8devtoolsDemo/panel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8devtoolsDemo/panel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8devtoolsDemo/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8devtoolsDemo/devtools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/7storageDemo/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="90">
+          <caret line="30" column="36" lean-forward="true" selection-start-line="30" selection-start-column="36" selection-end-line="30" selection-end-column="36" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#meta#1;n#head#0;n#html#0;n#!!top" />

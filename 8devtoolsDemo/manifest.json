@@ -1,1 +1,24 @@
-
+{
+  "manifest_version": 2,
+  "name": "8devtoolsDemo",
+  "version": "1.0.0.0",
+  "description": "小旋子的chrome扩展8devtoolsDemo",
+  "icons": {
+    "48": "WechatIMG2.jpg"
+  },
+  "devtools_page": "devtools.html",
+  "permissions": [
+    "*://*.wikipedia.org/*",
+    "*://*.jd.com/*",
+    "*://*.xiaomi.com/*",
+    "*://*.weather.com.cn/*",
+    "storage",
+    "contextMenus",
+    "notifications",
+    "bookmarks",
+    "tabs",
+    "downloads",
+    "webRequest",
+    "webRequestBlocking"
+  ]
+}

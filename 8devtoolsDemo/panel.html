@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>8devtoolsDemo</title>
+</head>
+<body>
+<h3>这是一个devtools页面</h3>
+<p>DevTools扩展的结构与任何其他扩展一样：它可以包含后台页面，内容脚本和其他项目。此外，每个DevTools扩展都有一个DevTools页面，可以访问DevTools API。</p>
+<p>DevTools扩展程序为Chrome DevTools添加了功能。它可以添加新的UI面板和侧边栏，与被检查页面交互，获取有关网络请求的信息等。</p>
+<p>DevTools扩展可以访问另一组特定于DevTools的扩展API</p>
+<img src="devtools-extension.png" alt="" >
+
+
+<input type="button" value="检查页面是否使用了jquery" id="checkJqueryBtn">
+<input type="button" value="定位到页面的第一个image" id="getLogoBtn">
+<input type="button" value="获取页面全部资源" id="getAllBtn">
+<input type="button" value="重载页面" id="reloadBtn">
+<script src="panel.js"></script>
+</body>
+</html>
